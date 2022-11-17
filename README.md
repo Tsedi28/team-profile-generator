@@ -1,8 +1,9 @@
 # team-profile-generator
 Team Profile Generator
 
-Github :
-Walkthrough video : 
+Github : https://github.com/Tsedi28/team-profile-generator 
+
+Walkthrough video : https://drive.google.com/file/d/1_p0C6p4XXYzrLwIQlqxkNA9SVZyqUpw5/view
 
 Description
 a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
