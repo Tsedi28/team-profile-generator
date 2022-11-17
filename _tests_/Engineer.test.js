@@ -1,3 +1,4 @@
+
 const Employee = require('../lib/Employee');
 const Engineer = require('../lib/Engineer');
 
@@ -14,7 +15,7 @@ test('set github account with constructor', () => {
 test('get github account with getGithub() method', () => {
     const testValue = 'GitHubAccount';
     const e = new Engineer('Foo', 1, 'engineer@email.com', testValue);
-    expect(e.getGitHub()).toBe(testValue);
+    expect(e.getGithub()).toBe(testValue);
 });
 
 // Test if the getRole() value is Engineer

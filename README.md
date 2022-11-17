@@ -13,6 +13,7 @@ User Story
 - SO THAT I have quick access to their emails and GitHub profiles
 
 Usage
+
 This application will allow user to generate a team profile
 Users will be prompt to enter a manager information
 Then user will have choices to select to add a team member (an engineer or an intern) or end the application
