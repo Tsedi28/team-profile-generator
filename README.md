@@ -24,12 +24,22 @@ Once HTML page have been created, all the profile entered will be displayed
 When user click on an email address in the HTML, default email program opens and populated the TO field of the email with the address
 When user click on the GitHub username, then that GitHub profile opens in a new tab
 
+
+
 Screenshots:
-![app screenshot](./assets/img/terminal-vscode.png)
-![app screenshot](./assets/img/terminal-vscode.png)
-![app screenshot](./assets/img/terminal-vscode.png)
+
+![app screenshot](./assets/img/Screenshot%202022-11-16%20215005.png)
+
+
+![app screenshot](./assets/img/Screenshot%202022-11-16%20214832.png)
+
+
+![app screenshot](./assets/img/Screenshot%202022-11-16%20215043.png)
+
+
 
 Technologies Use:
+
 Node.js
 
 NPM
@@ -39,6 +49,8 @@ Inquirer.js
 Jest
 
 Bootstrap
+
+
 
 Contributor:
 
