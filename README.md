@@ -37,7 +37,6 @@ Screenshots:
 
 ![app screenshot](./assets/img/Screenshot%202022-11-16%20215043.png)
 
-
 Technologies Use:
 
 Node.js
