@@ -53,5 +53,5 @@ Bootstrap
 
 Contributor:
 
-Tsedenia Bogale ©2022 All Rights Reserved.
+Tsedi ©2022 All Rights Reserved.
 
